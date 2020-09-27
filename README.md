@@ -4,10 +4,12 @@ Harvester and data parser for NZ Election website.
 
 This is a single Python script that requests XML from [https://media.election.net.nz/xml](https://media.election.net.nz/xml) on a regular basis and transforms it into JSON.
 
+Documentation from Elections about their XML spec is available in the `docs` folder.
+
 ### Dependencies
 
-Python 3.x
-[Requests](https://requests.readthedocs.io/en/master/)
+- Python 3.x
+- [Requests](https://requests.readthedocs.io/en/master/)
 
 
 
