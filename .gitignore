@@ -2,6 +2,8 @@
 data/election.xml
 data/parties.xml
 data/recent.xml
+data/party_votes.json
+data/statistics.json
 
 # General OSX
 .DS_Store

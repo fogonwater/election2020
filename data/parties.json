@@ -1,0 +1,247 @@
+{
+  "1": {
+    "party_name": "New Zealand People's Party",
+    "registered": "no",
+    "short_name": "New Zealand People's Party"
+  },
+  "10": {
+    "party_name": "Communist League",
+    "registered": "no",
+    "short_name": "Communist League"
+  },
+  "11": {
+    "party_name": "New Conservative",
+    "registered": "yes",
+    "short_name": "New Conservative"
+  },
+  "12": {
+    "party_name": "Focus New Zealand",
+    "registered": "no",
+    "short_name": "Focus New Zealand"
+  },
+  "13": {
+    "party_name": "Green Party",
+    "registered": "yes",
+    "short_name": "Green Party"
+  },
+  "14": {
+    "party_name": "Human Rights Party",
+    "registered": "no",
+    "short_name": "Human Rights Party"
+  },
+  "15": {
+    "party_name": "Internet MANA",
+    "registered": "no",
+    "short_name": "Internet MANA"
+  },
+  "16": {
+    "party_name": "Internet Party",
+    "registered": "no",
+    "short_name": "Internet Party"
+  },
+  "17": {
+    "party_name": "Labour Party",
+    "registered": "yes",
+    "short_name": "Labour Party"
+  },
+  "18": {
+    "party_name": "MANA",
+    "registered": "yes",
+    "short_name": "MANA"
+  },
+  "19": {
+    "party_name": "M\u0101ori Party",
+    "registered": "yes",
+    "short_name": "M\u0101ori Party"
+  },
+  "2": {
+    "party_name": "Future Youth Party",
+    "registered": "no",
+    "short_name": "Future Youth Party"
+  },
+  "20": {
+    "party_name": "Money Free Party",
+    "registered": "no",
+    "short_name": "Money Free Party"
+  },
+  "21": {
+    "party_name": "National Party",
+    "registered": "yes",
+    "short_name": "National Party"
+  },
+  "22": {
+    "party_name": "New Zealand First Party",
+    "registered": "yes",
+    "short_name": "New Zealand First Party"
+  },
+  "23": {
+    "party_name": "NZ Economic Euthenics Party",
+    "registered": "no",
+    "short_name": "NZ Economic Euthenics Party"
+  },
+  "24": {
+    "party_name": "NZ Independent Coalition",
+    "registered": "no",
+    "short_name": "NZ Independent Coalition"
+  },
+  "25": {
+    "party_name": "NZ Outdoors Party",
+    "registered": "yes",
+    "short_name": "NZ Outdoors Party"
+  },
+  "26": {
+    "party_name": "Patriotic Revolutionary Front",
+    "registered": "no",
+    "short_name": "Patriotic Revolutionary Front"
+  },
+  "27": {
+    "party_name": "The Civilian Party",
+    "registered": "no",
+    "short_name": "The Civilian Party"
+  },
+  "28": {
+    "party_name": "The Expats",
+    "registered": "no",
+    "short_name": "The Expats"
+  },
+  "29": {
+    "party_name": "The Opportunities Party (TOP)",
+    "registered": "yes",
+    "short_name": "The Opportunities Party (TOP)"
+  },
+  "3": {
+    "party_name": "GOdsownNZ",
+    "registered": "no",
+    "short_name": "GOdsownNZ"
+  },
+  "30": {
+    "party_name": "United Future",
+    "registered": "no",
+    "short_name": "United Future"
+  },
+  "31": {
+    "party_name": "Social Credit",
+    "registered": "yes",
+    "short_name": "Social Credit"
+  },
+  "32": {
+    "party_name": "NAP",
+    "registered": "no",
+    "short_name": "NAP"
+  },
+  "33": {
+    "party_name": "Climate First",
+    "registered": "no",
+    "short_name": "Climate First"
+  },
+  "34": {
+    "party_name": "The Logic Party",
+    "registered": "no",
+    "short_name": "The Logic Party"
+  },
+  "35": {
+    "party_name": "Republic of New Zealand Party",
+    "registered": "no",
+    "short_name": "Republic of New Zealand Party"
+  },
+  "36": {
+    "party_name": "ONE Party",
+    "registered": "yes",
+    "short_name": "ONE Party"
+  },
+  "37": {
+    "party_name": "Vision New Zealand",
+    "registered": "yes",
+    "short_name": "Vision New Zealand"
+  },
+  "38": {
+    "party_name": "Sustainable New Zealand Party",
+    "registered": "yes",
+    "short_name": "Sustainable New Zealand Party"
+  },
+  "39": {
+    "party_name": "Advance NZ",
+    "registered": "yes",
+    "short_name": "Advance NZ"
+  },
+  "4": {
+    "party_name": "1Law4All",
+    "registered": "no",
+    "short_name": "1Law4All"
+  },
+  "40": {
+    "party_name": "TEA Party",
+    "registered": "yes",
+    "short_name": "TEA Party"
+  },
+  "41": {
+    "party_name": "HeartlandNZ",
+    "registered": "yes",
+    "short_name": "HeartlandNZ"
+  },
+  "42": {
+    "party_name": "Attica",
+    "registered": "no",
+    "short_name": "Attica"
+  },
+  "43": {
+    "party_name": "Progressive Aotearoa New Zealand",
+    "registered": "no",
+    "short_name": "Progressive Aotearoa New Zealand"
+  },
+  "44": {
+    "party_name": "Harmony",
+    "registered": "no",
+    "short_name": "Harmony"
+  },
+  "45": {
+    "party_name": "NZ Public Party",
+    "registered": "no",
+    "short_name": "NZ Public Party"
+  },
+  "46": {
+    "party_name": "Voice of the People",
+    "registered": "no",
+    "short_name": "Voice of the People"
+  },
+  "47": {
+    "party_name": "Integrity New Zealand",
+    "registered": "no",
+    "short_name": "Integrity New Zealand"
+  },
+  "48": {
+    "party_name": "Trump New Zealand Party",
+    "registered": "no",
+    "short_name": "Trump New Zealand Party"
+  },
+  "49": {
+    "party_name": "Advance NZ",
+    "registered": "yes",
+    "short_name": "Advance NZ"
+  },
+  "5": {
+    "party_name": "ACT New Zealand",
+    "registered": "yes",
+    "short_name": "ACT New Zealand"
+  },
+  "6": {
+    "party_name": "Alliance",
+    "registered": "no",
+    "short_name": "Alliance"
+  },
+  "7": {
+    "party_name": "Aotearoa Legalise Cannabis Party",
+    "registered": "yes",
+    "short_name": "Aotearoa Legalise Cannabis Party"
+  },
+  "8": {
+    "party_name": "Ban1080",
+    "registered": "no",
+    "short_name": "Ban1080"
+  },
+  "9": {
+    "party_name": "Climate Party",
+    "registered": "no",
+    "short_name": "Climate Party"
+  }
+}
