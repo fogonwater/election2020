@@ -1,3 +1,15 @@
+# General OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
